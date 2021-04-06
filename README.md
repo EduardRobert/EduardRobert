@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EduardRobert and I'm 16 years old.
+- 👀 I’m interested in python programming.
+- 💞️ I’m looking to collaborate on python programmer to lern more about python.
+- 📫 How to reach me instagram @eduardgisca09 or email eduardrobert901@gmail.com
