@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EduardRobert and I'm 16 years old.
-- 👀 I’m interested in python programming.
-- 💞️ I’m looking to collaborate on python programmer to lern more about python.
+- 👋 Hi, I’m @EduardRobert, a 18 years old teen, I'm passionate about IT and programming.
+- 🎓 Graduete of Link Academy Java Development program
+- 👀 I’m interested in Java Development.
 - 📫 How to reach me instagram @eduardgisca09 or email eduardrobert901@gmail.com
